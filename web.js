@@ -1,4 +1,18 @@
-const http = require('http');
+// 8. tao web server, chi gui ve cho client file .js, tao ajax truy cap den bus
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
@@ -44,3 +58,4 @@ http.createServer(function(req, res) {
         res.end('No Page Found');
     }
 }).listen(3002);
+*/

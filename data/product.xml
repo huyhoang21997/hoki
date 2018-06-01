@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<productlist>
-    <product productid='ip5' productname='Iphone 5' unitprice='5000000' count='10' offer='0.2'/>
-    <product productid='ip5s' productname='Iphone 5s' unitprice='7500000' count='10' offer='0.2'/>
-    <product productid='ip6' productname='Iphone 6' unitprice='10000000' count='10' offer='0.2'/>
-</productlist>

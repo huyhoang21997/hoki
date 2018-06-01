@@ -1,0 +1,44 @@
+[
+    {
+        "_id": {
+            "$oid": "5af95cedf36d280cecd26408"
+        },
+        "productId": "ipx_64",
+        "productName": "iPhone X 64GB",
+        "describe": "Đã lâu lắm rồi Apple mới ra mắt một sản phẩm với thiết kế đột phá và liều lĩnh. Dù vấp phải khá nhiều ý kiến trái chiều nhưng cũng không thể phủ nhận độ hấp dẫn của chiếc iPhone thế hệ thứ 10 này. Công nghệ bảo mật mới, loại bỏ nút home truyền thống, camera với những tính năng độc quyền, tất cả đã khiến người dùng đứng ngồi không yên cho đến khi được trên tay.",
+        "producer": "Apple",
+        "unitPrice": 29990000,
+        "count": 100,
+        "other": null,
+        "configuration": {
+            "screen": "5.8 inchs OLED",
+            "camera": "7.0 MP/ Dual 12.0 MP",
+            "pin": "2716 mAh, Li-Ion battery",
+            "ram": "3 GB",
+            "cpu": "Apple A11 Bionic",
+            "os": "iOS 11"
+        },
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "5af979a3f36d280cecd27093"
+        },
+        "productId": "ipx_256",
+        "productName": "iPhone X 256GB",
+        "describe": "Đã lâu lắm rồi Apple mới ra mắt một sản phẩm với thiết kế đột phá và liều lĩnh. Dù vấp phải khá nhiều ý kiến trái chiều nhưng cũng không thể phủ nhận độ hấp dẫn của chiếc iPhone thế hệ thứ 10 này. Công nghệ bảo mật mới, loại bỏ nút home truyền thống, camera với những tính năng độc quyền, tất cả đã khiến người dùng đứng ngồi không yên cho đến khi được trên tay.",
+        "producer": "Apple",
+        "unitPrice": 34790000,
+        "count": 100,
+        "other": null,
+        "configuration": {
+            "screen": "5.8 inchs OLED",
+            "camera": "7.0 MP/ Dual 12.0 MP",
+            "pin": "2716 mAh, Li-Ion battery",
+            "ram": "3 GB",
+            "cpu": "Apple A11 Bionic",
+            "os": "iOS 11"
+        },
+        "__v": 0
+    }
+]

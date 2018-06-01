@@ -1,0 +1,1 @@
+// 9. Tao ajax den bus de lay trang html phu hop 
